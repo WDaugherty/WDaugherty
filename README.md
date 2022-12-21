@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Will Daugherty a masters of operations research and information engineering at Cornell Tech! 
+
+
 
 <!--
 **WDaugherty/WDaugherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
