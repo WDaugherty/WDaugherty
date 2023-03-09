@@ -10,5 +10,4 @@
 <br> Currently interested in machine learning, blockchains, prompt engineering and hardware applications! You can reach out to me at wld37@cornell.edu <br>
 <br>
 
-![snake gif](https://github.com/WDaugherty/WDaugherty/blob/output/github-contribution-grid-snake.gif)
 
