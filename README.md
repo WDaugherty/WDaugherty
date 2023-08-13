@@ -2,7 +2,7 @@
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/williamdaugherty-miller/">
+<a href="[https://www.linkedin.com/in/williamdaugherty-miller/](https://www.linkedin.com/in/williamdaugherty/)">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 
 
