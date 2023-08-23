@@ -30,4 +30,5 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/WDau
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png" alt="Ivysaur" width="200">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" alt="Venusaur" width="200">
 </p>
