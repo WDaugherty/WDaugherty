@@ -15,19 +15,18 @@ I'm a passionate developer who loves working on a variety of projects, from LLMs
 
 I enjoy using a diverse set of programming languages and tools:
 
-- Python (`python`)
-- Rust (`rs`)
-- C++ (`cpp`)
-- JSON (`json`)
-- JavaScript (`js`)
-- HTML (`html`)
-- CSS (`css`)
-- Ruby (`rb`)
-- C (`c`)
+- Python 🐍
+- Rust 🦀
+- C++ 💻
+- JSON 📄
+- JavaScript 🌐
+- HTML/CSS 🎨
+- Ruby 💎
+- C 📝
 
 ## Let's Connect!
 
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/WDaugherty/) I'm always excited to collaborate and learn from others.
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/WDaugherty/). I'm always excited to collaborate and learn from others.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png" alt="Ivysaur" width="200">
