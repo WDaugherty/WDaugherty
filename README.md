@@ -4,7 +4,7 @@
 
 # Hi there! 👋 I'm Will Daugherty!
 
-I'm a passionate developer who loves working on a variety of projects, from LLMs (Large Language Models) and Graph Neural Networks to Web Development, optimization, and hardware applications.
+I'm a passionate developer who loves working on a variety of projects, from LLMs and Graph Neural Networks to Web Development, optimization, and hardware applications.
 
 - 🚀 Exploring the endless possibilities of Large Language Models.
 - 🌐 Creating web applications that make a difference.
