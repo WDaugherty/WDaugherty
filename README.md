@@ -18,11 +18,11 @@ I enjoy using a diverse set of programming languages and tools:
 - Python 🐍
 - Rust 🦀
 - C++ 💻
-- JSON 📄
+- R 📊
 - JavaScript 🌐
 - HTML/CSS 🎨
 - Ruby 💎
-- C 📝
+- Go 🦫
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png" alt="Mudkip" width="200">
